@@ -1,0 +1,19 @@
+[general]
+name=Visualisation Constats Loup
+qgisMinimumVersion=3.34
+description=Plugin pour visualiser l'évolution mensuelle des constats d'attaques de loups sur les communes du département.
+version=1.0
+# Optional items:
+changelog=  0.0.1 first version.
+
+# Author contact information
+author=Jean-Christophe Baudin
+email=jean-christophe.baudin@cote-dor.gouv.fr
+
+#repository=https://example.com
+category=Analysis
+#icon=path/to/your/icon.png
+icon=Loup1.jpg
+experimental=True
+deprecated=False
+tags=loup, communes, points, animation
