@@ -1,3 +1,4 @@
+#data_processor_visualisation_constats.py
 from qgis.core import QgsVectorLayer, QgsFeature, QgsField
 from .utils_visualisation_constats import normalize_string, normalize_elevage, nettoie_chaine_majuscule, cherche_nom
 import datetime
